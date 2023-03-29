@@ -1,0 +1,3 @@
+﻿  CoinFlip.cpp
+\\et-fileserver\staff\pawnol\Desktop\CoinFlip\CoinFlip.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CoinFlip.vcxproj -> \\et-fileserver\staff\pawnol\Desktop\CoinFlip\Debug\CoinFlip.exe
